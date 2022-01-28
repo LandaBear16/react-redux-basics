@@ -25,3 +25,8 @@ nav a.active{
   overflow: hidden;
   padding-left: 80px;
 }
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
